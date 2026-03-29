@@ -1,0 +1,8 @@
+#node modules
+node_modules/
+
+#.env file
+.env
+
+#tsconfig file
+# tsconfig.json
